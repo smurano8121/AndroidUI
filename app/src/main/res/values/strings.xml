@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidUI</string>
+    <string name="Title">―ダウンライト調光用アプリ―</string>
+    <string name="all_light_on">全照明点灯</string>
+    <string name="all_light_off">全照明消灯</string>
+    <string name="individual">個別照明制御画面へ移動</string>
+    <string name="signal_parcent">照明の点灯率：</string>
+    <string name="signal">0%</string>
+</resources>
